@@ -1,3 +1,4 @@
+![ka-bg](https://user-images.githubusercontent.com/2342458/211198089-4443a8b7-32af-4000-983d-fb5d561dfe4c.png)
 
 # Grow your business and website skills for free with Kinsta Academy
 Develop your skills and grow your business with free online training by industry professionals. Sign up and get started on your first course today.
