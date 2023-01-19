@@ -24,7 +24,7 @@ Get started today with [Kinsta Academy](https://kinsta.com/academy).
 ---
 
 ## Learn more about our products
-- [Application hosting](https://kinsta.com/application-hosting/) (See [Documentation](https://kinsta.com/docs/application-hosting/))
+- [Application hosting](https://kinsta.com/application-hosting/) (See [Documentation](https://kinsta.com/docs/application-hosting/) and the [official repository](https://github.com/kinsta/))
 - [Database hosting](https://kinsta.com/database-hosting/) (See [Documentation](https://kinsta.com/docs/database-hosting/))
 - [WordPress hosting](https://kinsta.com/wordpress-hosting/) (See [Documentation](https://kinsta.com/docs/wordpress-hosting/))
 - [DevKinsta](https://kinsta.com/devkinsta/) (See [Documentation](https://kinsta.com/knowledgebase/devkinsta/))
