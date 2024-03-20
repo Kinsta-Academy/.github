@@ -8,6 +8,7 @@ Read the tutorials on the [Kinsta Blog](https://kinsta.com/blog/) or [Knowledge 
 
 Popular topics:
 
+- [WordPress development](https://kinsta.com/topic/wordpress-development/)
 - [WordPress hosting](https://kinsta.com/topic/wordpress-hosting/)
 - [WooCommerce](https://kinsta.com/topic/woocommerce/)
 - [Headless CMS](https://kinsta.com/topic/headless-cms/)
