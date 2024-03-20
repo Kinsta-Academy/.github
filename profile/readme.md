@@ -1,7 +1,6 @@
-# Grow your business and website skills with Kinsta Content
+# Grow your business and web development skills with Kinsta Content
 
 Develop your skills and grow your business with free online tutorials and demos by industry professionals.
-
 Whether you want to level up your knowledge, explore new topics, or resolve a problem, the huge number of resources from Kinsta can certainly help you.
 
 Read the tutorials on the [Kinsta Blog](https://kinsta.com/blog/) or [Knowledge Base](https://kinsta.com/knowledgebase/) and use the demos, samples, and examples from this org to help you get started with a number of tasks.
